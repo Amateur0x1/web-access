@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/logo.png" alt="web-access" width="480">
-</p>
+<img width="879" height="376" alt="image" src="https://github.com/user-attachments/assets/a87fd816-a0b5-4264-b01c-9466eae90723" />
 
 给 Claude Code 装上完整联网能力的 skill。
 
